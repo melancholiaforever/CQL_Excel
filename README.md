@@ -1,8 +1,8 @@
-## CQL Excel
+# CQL Excel
 
 `CQL Excel`  is a Excel add-in for CovenantSQL.
 
-#### Why using this?
+## Why using this?
 
 I'm a data ~~scientist~~ worker whose daliy job is collecting all kinds of data, analysising and charting it for PPT usage.
 
@@ -14,7 +14,7 @@ So, we use Excel with an PostgreSQL as backend. It works great! Then, I came acr
 
 I have stored a mass macro economy & finance data in CovenantSQL. I will try my best keep the data up to data. May the data is useful to you.
 
-#### Using Excel to import data from CovenantSQL
+## Using Excel to import data
 
 The Excel add-in is based on the .Net Framework 4.5, as the result of that, this add-in only working on the Windows system. It should work on Office 2010 and above.
 
@@ -26,9 +26,7 @@ How to use CovenantSQL Excel Add-in to get massive economy & finance data?
 
     <https://github.com/melancholiaforever/CQL_Excel/releases>
 
-2. Unzip the package to any path u like, for example `D:\covenantSQL`
-
-    
+2. Unzip the package to any path u like, for example `D:\covenantSQL` 
 
 3. Using text editor such as notepad++ open the `CQLQuandl-Excel-en*.xll.config` (please check your Office version x86 or x64, the x86 version config is `CQLQuandl-Excel-en.xll`  x64 version is `CQLQuandl-Excel-en64.xll.config`). the modify the path of the`certpath` value  to the pfx file path like this: 
 
@@ -36,7 +34,11 @@ How to use CovenantSQL Excel Add-in to get massive economy & finance data?
 
 4. Double clicking .xll file or load it in the menu of loading Excel Add-in.
 
-##Data list
+5. There will be a "CovenantSQL Quandl" tab on the top.
+
+
+
+## Data list
 
   
 
