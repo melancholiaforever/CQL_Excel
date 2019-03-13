@@ -30,7 +30,7 @@ How to use CovenantSQL Excel Add-in to get massive economy & finance data?
 
 3. Using text editor such as notepad++ open the `CQLQuandl-Excel-en*.xll.config` (please check your Office version x86 or x64, the x86 version config is `CQLQuandl-Excel-en.xll`  x64 version is `CQLQuandl-Excel-en64.xll.config`). the modify the path of the`certpath` value  to the pfx file path like this: 
 
-   ```<add key="certpath" value="D:\covenantSQL\read.data.thunderdb.io.pfx" />.```
+   ```<add key="certpath" value="D:\covenantSQL\read.data.covenantsql.io" />.```
 
 4. Double clicking .xll file or load it in the menu of loading Excel Add-in.
 
