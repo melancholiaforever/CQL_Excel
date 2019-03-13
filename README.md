@@ -24,7 +24,7 @@ How to use CovenantSQL Excel Add-in to get massive economy & finance data?
 
 1. Download Excel add-in from latest release:
 
-    
+    <https://github.com/melancholiaforever/CQL_Excel/releases>
 
 2. Unzip the package to any path u like, for example `D:\covenantSQL`
 
